@@ -2,3 +2,5 @@ node_modules/
 dist/
 .env
 *.log
+/client/node_modules
+/server/node_modules
